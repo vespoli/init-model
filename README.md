@@ -1,4 +1,4 @@
-Use this in place of ng-init
+Use this in place of ng-model
 
 This will allow us to initialize a model based on whats in the markup. Angular would have you create a custom 
 service to initialize your model. This "feature" is great for SPA, crap for CMS
