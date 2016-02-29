@@ -8,4 +8,5 @@ Solved the issue of Angular dropping an "undefined" empty option in your static 
 Keywords: ng-init, ng-model
 
 Credit https://www.neontsunami.com/posts/initialise-angular-model-using-the-initial-value
+
 My value add: Extended to allow for nested objects
